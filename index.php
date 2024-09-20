@@ -12,6 +12,8 @@
 	<ul>
 		<li><a href="xss.php">Cross-Site Scripting (XSS)</a></li>
 		<li><a href="file_inclusion.php">File Inclusion Vulnerability</a></li>
+		<li><a href="os_injection.php">OS Command Injection</a></li>
+		<li><a href="ssrf.php">SSRF Vulnerability</a></li>
 	</ul>
 </body>
 </html>
