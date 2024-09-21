@@ -23,6 +23,7 @@
 		echo "<pre>";
 		system("ping -c 4 " . $ip);
 		echo "</pre>";
+		echo "koko";
 	}
 	?>
 
